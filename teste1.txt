@@ -1,2 +1,4 @@
 Exemplo de Commit!
 Aula Github
+
+exemplo de conflito
